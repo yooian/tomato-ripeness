@@ -1,4 +1,4 @@
 notebooks/content
 notebooks/dataset
 tomato-venv
-.zip
+*.zip
